@@ -234,7 +234,7 @@ main {
   border: 2px solid var(--Orange);
   opacity: 50%;
 }
-.content {
+.company-view {
   margin-left: 3rem;
 }
 .company {
@@ -252,7 +252,7 @@ main {
   line-height: 1.5;
   margin-bottom: 1rem;
 }
-.price {
+.prices {
   display: flex;
   flex-direction: column;
   gap: 0.6rem;
